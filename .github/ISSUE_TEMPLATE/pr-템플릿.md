@@ -1,6 +1,6 @@
 ---
-name: PR 템플릿
-about: PR 요청을 위한 템플릿
+name: MR 템플릿
+about: MR 요청을 위한 템플릿
 title: ''
 labels: ''
 assignees: ''
